@@ -1,6 +1,7 @@
 # property-scraper
 
 ## Folder structure
+```bash
 property-scraper/
 ├── .gitignore                   # Git exclusion rules (env, pycache, logs, output)
 ├── app/
@@ -22,3 +23,4 @@ property-scraper/
 ├── output_listings.json         # Ignored by git
 ├── pyproject.toml
 └── README.md
+```
